@@ -1,0 +1,4 @@
+/weather/__pycache__/
+/weather_app/__pycache__/
+/db.sqlite3
+/weather/.env
